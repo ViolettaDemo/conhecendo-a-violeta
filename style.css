@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+.menu{
+    position: fixed;
+    background-color: white;
+    margin-top: 0px;
+    top: 10px;
+    z-index: 10;
+    width: 100%; 
+}
+.link{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+
+}
+img{
+    border-radius: 20%;
+    width: 300px;
+}
+#bemvindo{
+    background: linear-gradient(#ba36d3 0%,#480155 100%);
+}
+.linha{
+   height: 6px; 
+   background-color: black;
+   width: 70px;
+   margin: 8px auto;
+}
